@@ -1,63 +1,67 @@
 {
-  "swipers": [
-    {
-      "id": 1,
-      "title": "鸣享MX1-T1",
-      "type": "bicycle",
-      "description": "全新20寸车型，工业之美简约不简单，一车两用，配备隐藏式打气筒，轻松上路，出行无忧。",
-      "price": "2499.00",
-      "reverse": false,
-      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/029236899c1424dbebcc98eb2f199981.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
-    },
-    {
-      "id": 2,
-      "title": "鸣享MXG-11",
-      "type": "bicycle",
-      "description": "春暖花开安心出行！骑行&汽车用品钜惠！爆品直降，满199立减40！详情点击14寸车型，三色可选，新国标3C认证，工业之美简约不简单。",
-      "price": "3799.00",
-      "reverse": true,
-      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/bfe43c25c8d42b0f87e71697c1bd3316.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
-    },
-    {
-      "id": 3,
-      "title": "鸣享MXC-26",
-      "type": "bicycle",
-      "description": "水注成型工艺，大容量管藏锂电池，禧玛诺变速系统。",
-      "price": "3999.00",
-      "reverse": true,
-      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/2cd4f8fb93670a0d70a4f53fca533952.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
-    }
-  ],
   "items": [
     {
       "id": 1,
-      "title": "鸣享MX1-T1",
+      "title": "MX C40",
       "type": "bicycle",
       "description": "全新20寸车型，工业之美简约不简单，一车两用，配备隐藏式打气筒，轻松上路，出行无忧。",
-      "price": "2499.00",
+      "price": "4199.00",
+      "tag": "normal",
       "reverse": false,
-      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/029236899c1424dbebcc98eb2f199981.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
+      "thumbnail": "https://img.youpin.mi-img.com/shopmain/cb7ab2a57124013eadeb4daf1c2f1c2f.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
     },
     {
       "id": 2,
-      "title": "鸣享MXG-11",
+      "title": "MX T1",
       "type": "bicycle",
+      "tag": "shopwindow",
       "description": "春暖花开安心出行！骑行&汽车用品钜惠！爆品直降，满199立减40！详情点击14寸车型，三色可选，新国标3C认证，工业之美简约不简单。",
       "price": "3799.00",
       "reverse": true,
-      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/bfe43c25c8d42b0f87e71697c1bd3316.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
+      "thumbnail": "https://img.youpin.mi-img.com/shopmain/029236899c1424dbebcc98eb2f199981.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
     },
     {
       "id": 3,
-      "title": "鸣享MXC-26",
+      "title": "MX C16",
       "type": "bicycle",
-      "description": "水注成型工艺，大容量管藏锂电池，禧玛诺变速系统。",
+      "tag": "normal",
+      "description": "鸣享电动助力自行车，水注成型工艺，大容量管藏锂电池，禧玛诺变速系统。",
       "price": "3999.00",
       "reverse": true,
-      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/2cd4f8fb93670a0d70a4f53fca533952.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
+      "thumbnail": "https://img.youpin.mi-img.com/shopmain/acee420f2f3eae4440a21b8fee6c96e3.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080"
+    },
+    {
+      "id": 4,
+      "title": "MX轻骑头盔",
+      "type": "helmet",
+      "tag": "shopwindow",
+      "description": "五一惠出行！爆品直降，部分商品满2件9折，3件8折。",
+      "price": "199.00",
+      "reverse": true,
+      "thumbnail": "https://img.youpin.mi-img.com/goods/22c9c223139a3d7edd3213ff4e5b439e.jpg@base@tag=imgScale?_s=ks3"
+    },
+    {
+      "id": 5,
+      "title": "MX头盔护具套装",
+      "type": "helmet",
+      "tag": "shopwindow",
+      "description": "全家人适用，轻便舒适，一体成型，简约时尚。",
+      "price": "199.00",
+      "reverse": true,
+      "thumbnail": "https://img.youpin.mi-img.com/goods/ddc37bca9b0359239a2f6fd08ae198d1.jpg@base@tag=imgScale?_s=ks3"
+    },
+    {
+      "id": 6,
+      "title": "MX护腕护膝套装",
+      "type": "helmet",
+      "tag": "normal",
+      "description": "坚固防护，轻便透气，安全舒适。",
+      "price": "99.00",
+      "reverse": true,
+      "thumbnail": "https://img.youpin.mi-img.com/goods/fshop_e03c200de2ed61b98f77962b95f9213e.jpeg@base@tag=imgScale?_s=ks3"
     }
   ],
-  "images": [
+  "thumbnails": [
     {
       "id": 1,
       "url": "https://img.youpin.mi-img.com/shopmain/488e97fb57b60c90a34b54f51a3e7e9c.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
@@ -76,12 +80,167 @@
     {
       "id": 4,
       "url": "https://img.youpin.mi-img.com/shopmain/164dbf5a00c633a3b89e7a56ab0c0093.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
-      "itemId": 2
+      "itemId": 1
     },
     {
       "id": 5,
-      "url": "https://img.youpin.mi-img.com/shopmain/cb7ab2a57124013eadeb4daf1c2f1c2f.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080'",
+      "url": "https://img.youpin.mi-img.com/shopmain/cb7ab2a57124013eadeb4daf1c2f1c2f.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 1
+    },
+    {
+      "id": 6,
+      "url": "https://img.youpin.mi-img.com/shopmain/029236899c1424dbebcc98eb2f199981.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
       "itemId": 2
+    },
+    {
+      "id": 7,
+      "url": "https://img.youpin.mi-img.com/shopmain/10f2a8ab52327d23d511bce59a81cb34.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 2
+    },
+    {
+      "id": 8,
+      "url": "https://img.youpin.mi-img.com/shopmain/4654a3b385e7a3ac6e19b40f05b26c18.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 2
+    },
+    {
+      "id": 9,
+      "url": "https://img.youpin.mi-img.com/shopmain/9ba9b32cfe45da00ca9d9cd1cd9483b9.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 2
+    },
+    {
+      "id": 10,
+      "url": "https://img.youpin.mi-img.com/shopmain/bfe43c25c8d42b0f87e71697c1bd3316.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 2
+    },
+    {
+      "id": 11,
+      "url": "https://img.youpin.mi-img.com/shopmain/3a8ca82ed0d7c73ca88fdef845db9f06.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 2
+    },
+    {
+      "id": 11,
+      "url": "https://img.youpin.mi-img.com/shopmain/3a8ca82ed0d7c73ca88fdef845db9f06.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 2
+    },
+    {
+      "id": 12,
+      "url": "https://img.youpin.mi-img.com/shopmain/acee420f2f3eae4440a21b8fee6c96e3.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 3
+    },
+    {
+      "id": 13,
+      "url": "https://img.youpin.mi-img.com/shopmain/bb51d54a1fafb28e96d8f8e3235ca474.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 3
+    },
+    {
+      "id": 14,
+      "url": "https://img.youpin.mi-img.com/shopmain/59ec656d3788c0cd53cdbd8ac647eef4.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 3
+    },
+    {
+      "id": 15,
+      "url": "https://img.youpin.mi-img.com/shopmain/5fea845f75f31395235902158a4444fb.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 3
+    },
+    {
+      "id": 16,
+      "url": "https://img.youpin.mi-img.com/shopmain/42bb15d1d188e7c0c542559ae5f9d5e8.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 3
+    },
+    {
+      "id": 17,
+      "url": "https://img.youpin.mi-img.com/shopmain/9fdbaaefb977014750ec63ca9848e4b1.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+      "itemId": 3
+    },
+    {
+      "id": 18,
+      "url": "https://img.youpin.mi-img.com/goods/e19d65df8f501fea27dc2ddef3aea20c.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 4
+    },
+    {
+      "id": 19,
+      "url": "https://img.youpin.mi-img.com/goods/521540ed56f53953fa9cab5ce599e9e2.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 4
+    },
+    {
+      "id": 20,
+      "url": "https://img.youpin.mi-img.com/goods/5d2b79c1320bc556a00053ee5de374a7.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 4
+    },
+    {
+      "id": 21,
+      "url": "https://img.youpin.mi-img.com/goods/1417ef1e544710aa68b776f1e6f96221.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 4
+    },
+    {
+      "id": 22,
+      "url": "https://img.youpin.mi-img.com/goods/22c9c223139a3d7edd3213ff4e5b439e.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 4
+    },
+    {
+      "id": 23,
+      "url": "https://img.youpin.mi-img.com/goods/1c75b488ad1da36d21605056036a9ed9.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 4
+    },
+    {
+      "id": 24,
+      "url": "https://img.youpin.mi-img.com/goods/dfa141b358126ce22161d987d61de7c6.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 5
+    },
+    {
+      "id": 25,
+      "url": "https://img.youpin.mi-img.com/goods/15d4e10742eed882f5e86c1cd5fc236a.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 5
+    },
+    {
+      "id": 26,
+      "url": "https://img.youpin.mi-img.com/goods/79d8dd5770a5877cd6e4977ceda37476.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 5
+    },
+    {
+      "id": 27,
+      "url": "https://img.youpin.mi-img.com/goods/f669f46baaf096d59eba9e19d3c91125.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 5
+    },
+    {
+      "id": 28,
+      "url": "https://img.youpin.mi-img.com/goods/ddc37bca9b0359239a2f6fd08ae198d1.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 5
+    },
+    {
+      "id": 29,
+      "url": "https://img.youpin.mi-img.com/goods/1875016f02ceb491ac7a79ec6dc990ef.jpg@base@tag=imgScale?_s=ks3",
+      "itemId": 5
+    },
+    {
+      "id": 30,
+      "url": "https://img.youpin.mi-img.com/goods/fshop_e03c200de2ed61b98f77962b95f9213e.jpeg@base@tag=imgScale?_s=ks3",
+      "itemId": 6
+    },
+    {
+      "id": 31,
+      "url": "https://img.youpin.mi-img.com/goods/fshop_b3f93dc9c9f50a0a1beaa6c3e0514bb3.jpeg@base@tag=imgScale?_s=ks3",
+      "itemId": 6
+    },
+    {
+      "id": 32,
+      "url": "https://img.youpin.mi-img.com/goods/fshop_bc496f010b35d42589230ce850eb8ce1.jpeg@base@tag=imgScale?_s=ks3",
+      "itemId": 6
+    },
+    {
+      "id": 33,
+      "url": "https://img.youpin.mi-img.com/goods/fshop_0503e01c8a83d424f8c76092258e9da0.jpeg@base@tag=imgScale?_s=ks3",
+      "itemId": 6
+    },
+    {
+      "id": 34,
+      "url": "https://img.youpin.mi-img.com/goods/fshop_09e20d26149269a9d5979646eac165e0.jpeg@base@tag=imgScale?_s=ks3",
+      "itemId": 6
+    },
+    {
+      "id": 35,
+      "url": "https://img.youpin.mi-img.com/goods/fshop_9ae630ccce4a04bf98eaf334372fe7d3.jpeg@base@tag=imgScale?_s=ks3",
+      "itemId": 6
     }
   ]
 }
