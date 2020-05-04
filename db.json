@@ -1,0 +1,31 @@
+{
+  "swipers": [
+    {
+      "id": 1,
+      "title": "鸣享MX1-T1",
+      "type": "bicycle",
+      "description": "全新20寸车型，工业之美简约不简单，一车两用，配备隐藏式打气筒，轻松上路，出行无忧。",
+      "price": "2499.00",
+      "reverse": false,
+      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/029236899c1424dbebcc98eb2f199981.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+    },
+    {
+      "id": 2,
+      "title": "鸣享MXG-11",
+      "type": "bicycle",
+      "description": "春暖花开安心出行！骑行&汽车用品钜惠！爆品直降，满199立减40！详情点击14寸车型，三色可选，新国标3C认证，工业之美简约不简单。",
+      "price": "3799.00",
+      "reverse": true,
+      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/bfe43c25c8d42b0f87e71697c1bd3316.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+    },
+    {
+      "id": 3,
+      "title": "鸣享MXC-26",
+      "type": "bicycle",
+      "description": "水注成型工艺，大容量管藏锂电池，禧玛诺变速系统。",
+      "price": "3999.00",
+      "reverse": true,
+      "imageUrl": "https: //img.youpin.mi-img.com/shopmain/2cd4f8fb93670a0d70a4f53fca533952.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
+    }
+  ]
+}
