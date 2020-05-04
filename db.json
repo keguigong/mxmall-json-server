@@ -61,7 +61,7 @@
       "thumbnail": "https://img.youpin.mi-img.com/goods/fshop_e03c200de2ed61b98f77962b95f9213e.jpeg@base@tag=imgScale?_s=ks3"
     }
   ],
-  "thumbnails": [
+  "images": [
     {
       "id": 1,
       "url": "https://img.youpin.mi-img.com/shopmain/488e97fb57b60c90a34b54f51a3e7e9c.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
@@ -110,16 +110,6 @@
     {
       "id": 10,
       "url": "https://img.youpin.mi-img.com/shopmain/bfe43c25c8d42b0f87e71697c1bd3316.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
-      "itemId": 2
-    },
-    {
-      "id": 11,
-      "url": "https://img.youpin.mi-img.com/shopmain/3a8ca82ed0d7c73ca88fdef845db9f06.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
-      "itemId": 2
-    },
-    {
-      "id": 11,
-      "url": "https://img.youpin.mi-img.com/shopmain/3a8ca82ed0d7c73ca88fdef845db9f06.jpg@base@tag=imgScale&h=1080&w=1080?w=1080&h=1080",
       "itemId": 2
     },
     {
@@ -203,16 +193,6 @@
       "itemId": 5
     },
     {
-      "id": 28,
-      "url": "https://img.youpin.mi-img.com/goods/ddc37bca9b0359239a2f6fd08ae198d1.jpg@base@tag=imgScale?_s=ks3",
-      "itemId": 5
-    },
-    {
-      "id": 29,
-      "url": "https://img.youpin.mi-img.com/goods/1875016f02ceb491ac7a79ec6dc990ef.jpg@base@tag=imgScale?_s=ks3",
-      "itemId": 5
-    },
-    {
       "id": 30,
       "url": "https://img.youpin.mi-img.com/goods/fshop_e03c200de2ed61b98f77962b95f9213e.jpeg@base@tag=imgScale?_s=ks3",
       "itemId": 6
@@ -230,16 +210,6 @@
     {
       "id": 33,
       "url": "https://img.youpin.mi-img.com/goods/fshop_0503e01c8a83d424f8c76092258e9da0.jpeg@base@tag=imgScale?_s=ks3",
-      "itemId": 6
-    },
-    {
-      "id": 34,
-      "url": "https://img.youpin.mi-img.com/goods/fshop_09e20d26149269a9d5979646eac165e0.jpeg@base@tag=imgScale?_s=ks3",
-      "itemId": 6
-    },
-    {
-      "id": 35,
-      "url": "https://img.youpin.mi-img.com/goods/fshop_9ae630ccce4a04bf98eaf334372fe7d3.jpeg@base@tag=imgScale?_s=ks3",
       "itemId": 6
     }
   ]
